@@ -1,9 +1,9 @@
 # Aplicación de Visualización de Datos con Qt y QCustomPlot
 
-**Desarrollado por:** Miguel A. Calveiro
-**Universidad:** UTN - Facultad Regional Córdoba
-**Materia:** Programación
-**Año:** 2023
+**Desarrollado por:** Miguel A. Calveiro  
+**Universidad:** UTN - Facultad Regional Córdoba  
+**Materia:** Programación  
+**Año:** 2023  
 
 Esta es una aplicación básica desarrollada con Qt y la librería QCustomPlot para crear una interfaz gráfica que muestra un gráfico de barras simple y un botón de salida.
 
